@@ -1,0 +1,443 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:2:1-102:12
+INJECTED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:2:1-102:12
+INJECTED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:2:1-102:12
+INJECTED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:2:1-102:12
+MERGED from [com.github.devlight.shadowlayout:library:1.0.0] C:\Users\Dell\.gradle\caches\transforms-3\3832a32de4e476ae257c0b790979129c\transformed\library-1.0.0\AndroidManifest.xml:14:1-28:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Dell\.gradle\caches\transforms-3\297395d195f6d0bd5f889e6a102d670d\transformed\appcompat-v7-26.1.0\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Dell\.gradle\caches\transforms-3\478bbd68f0ed2bfa54f4ffee01690357\transformed\constraint-layout-1.1.0\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Dell\.gradle\caches\transforms-3\bcfeee93368a428b5b056c702ac0a0db\transformed\support-v4-26.1.0\AndroidManifest.xml:17:1-31:12
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\Dell\.gradle\caches\transforms-3\5b8dcb537c9ea33920644acc41b6b20f\transformed\circleimageview-2.2.0\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Dell\.gradle\caches\transforms-3\7b86e249943c92068177e6d180201e9d\transformed\recyclerview-v7-26.1.0\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Dell\.gradle\caches\transforms-3\e33d9416d28a4462bf6e96ad3c311394\transformed\animated-vector-drawable-26.1.0\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Dell\.gradle\caches\transforms-3\060d3f96ef7df937ce84b151d66943aa\transformed\support-vector-drawable-26.1.0\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Dell\.gradle\caches\transforms-3\c19064971bbedc9e379e2c18ebd3f533\transformed\support-media-compat-26.1.0\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Dell\.gradle\caches\transforms-3\f3a8369da7d987279d55bf89e407b634\transformed\support-fragment-26.1.0\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Dell\.gradle\caches\transforms-3\c2d57a667b305712eea70c335056b341\transformed\support-core-utils-26.1.0\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Dell\.gradle\caches\transforms-3\0178685f0a5dee9c64f51034d4584a0c\transformed\support-core-ui-26.1.0\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Dell\.gradle\caches\transforms-3\387a944ca1ed702e908516665302ef06\transformed\support-compat-26.1.0\AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Dell\.gradle\caches\transforms-3\d409dd1e24ba85f9d12b52f70ec4c792\transformed\runtime-1.0.0\AndroidManifest.xml:17:1-30:12
+INJECTED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:2:1-102:12
+INJECTED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:2:1-102:12
+INJECTED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:2:1-102:12
+	package
+		ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:3:5-53
+		INJECTED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml
+		ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:2:1-102:12
+		INJECTED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml
+		ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:2:1-102:12
+		INJECTED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:6:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:8:22-78
+application
+ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:10:5-100:19
+MERGED from [com.github.devlight.shadowlayout:library:1.0.0] C:\Users\Dell\.gradle\caches\transforms-3\3832a32de4e476ae257c0b790979129c\transformed\library-1.0.0\AndroidManifest.xml:23:5-26:38
+MERGED from [com.github.devlight.shadowlayout:library:1.0.0] C:\Users\Dell\.gradle\caches\transforms-3\3832a32de4e476ae257c0b790979129c\transformed\library-1.0.0\AndroidManifest.xml:23:5-26:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Dell\.gradle\caches\transforms-3\297395d195f6d0bd5f889e6a102d670d\transformed\appcompat-v7-26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Dell\.gradle\caches\transforms-3\297395d195f6d0bd5f889e6a102d670d\transformed\appcompat-v7-26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Dell\.gradle\caches\transforms-3\478bbd68f0ed2bfa54f4ffee01690357\transformed\constraint-layout-1.1.0\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Dell\.gradle\caches\transforms-3\478bbd68f0ed2bfa54f4ffee01690357\transformed\constraint-layout-1.1.0\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Dell\.gradle\caches\transforms-3\bcfeee93368a428b5b056c702ac0a0db\transformed\support-v4-26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Dell\.gradle\caches\transforms-3\bcfeee93368a428b5b056c702ac0a0db\transformed\support-v4-26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\Dell\.gradle\caches\transforms-3\5b8dcb537c9ea33920644acc41b6b20f\transformed\circleimageview-2.2.0\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\Dell\.gradle\caches\transforms-3\5b8dcb537c9ea33920644acc41b6b20f\transformed\circleimageview-2.2.0\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Dell\.gradle\caches\transforms-3\7b86e249943c92068177e6d180201e9d\transformed\recyclerview-v7-26.1.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Dell\.gradle\caches\transforms-3\7b86e249943c92068177e6d180201e9d\transformed\recyclerview-v7-26.1.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Dell\.gradle\caches\transforms-3\e33d9416d28a4462bf6e96ad3c311394\transformed\animated-vector-drawable-26.1.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Dell\.gradle\caches\transforms-3\e33d9416d28a4462bf6e96ad3c311394\transformed\animated-vector-drawable-26.1.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Dell\.gradle\caches\transforms-3\060d3f96ef7df937ce84b151d66943aa\transformed\support-vector-drawable-26.1.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Dell\.gradle\caches\transforms-3\060d3f96ef7df937ce84b151d66943aa\transformed\support-vector-drawable-26.1.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Dell\.gradle\caches\transforms-3\c19064971bbedc9e379e2c18ebd3f533\transformed\support-media-compat-26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Dell\.gradle\caches\transforms-3\c19064971bbedc9e379e2c18ebd3f533\transformed\support-media-compat-26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Dell\.gradle\caches\transforms-3\f3a8369da7d987279d55bf89e407b634\transformed\support-fragment-26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Dell\.gradle\caches\transforms-3\f3a8369da7d987279d55bf89e407b634\transformed\support-fragment-26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Dell\.gradle\caches\transforms-3\c2d57a667b305712eea70c335056b341\transformed\support-core-utils-26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Dell\.gradle\caches\transforms-3\c2d57a667b305712eea70c335056b341\transformed\support-core-utils-26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Dell\.gradle\caches\transforms-3\0178685f0a5dee9c64f51034d4584a0c\transformed\support-core-ui-26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Dell\.gradle\caches\transforms-3\0178685f0a5dee9c64f51034d4584a0c\transformed\support-core-ui-26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Dell\.gradle\caches\transforms-3\387a944ca1ed702e908516665302ef06\transformed\support-compat-26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Dell\.gradle\caches\transforms-3\387a944ca1ed702e908516665302ef06\transformed\support-compat-26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Dell\.gradle\caches\transforms-3\d409dd1e24ba85f9d12b52f70ec4c792\transformed\runtime-1.0.0\AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Dell\.gradle\caches\transforms-3\d409dd1e24ba85f9d12b52f70ec4c792\transformed\runtime-1.0.0\AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:15:9-35
+	android:label
+		ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:13:9-41
+	android:roundIcon
+		ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:14:9-54
+	android:icon
+		ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:12:9-43
+	android:allowBackup
+		ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:16:9-40
+activity#com.example.a10767.electronic_wardrobe.Login_Register.MainActivity
+ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:17:9-23:20
+	android:name
+		ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:17:19-62
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:21:27-74
+activity#com.example.a10767.electronic_wardrobe.Login_Register.Register
+ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:26:9-61
+	android:name
+		ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:26:19-58
+activity#com.example.a10767.electronic_wardrobe.Main_Fragment.MyselfMine
+ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:27:9-62
+	android:name
+		ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:27:19-59
+activity#com.example.a10767.electronic_wardrobe.Fix_Message.ForgetPassword
+ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:28:9-64
+	android:name
+		ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:28:19-61
+activity#com.example.a10767.electronic_wardrobe.Fix_Message.ChangePassword
+ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:29:9-64
+	android:name
+		ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:29:19-61
+activity#com.example.a10767.electronic_wardrobe.Main_Fragment.TheMain
+ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:30:9-59
+	android:name
+		ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:30:19-56
+activity#com.example.a10767.electronic_wardrobe.Fix_Message.MyselfGender
+ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:31:9-62
+	android:name
+		ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:31:19-59
+activity#com.example.a10767.electronic_wardrobe.Fix_Message.MyselfUsername
+ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:32:9-64
+	android:name
+		ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:32:19-61
+activity#com.example.a10767.electronic_wardrobe.Fix_Message.FixPassword
+ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:33:9-61
+	android:name
+		ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:33:19-58
+activity#com.example.a10767.electronic_wardrobe.Fix_Message.FixPhone
+ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:34:9-58
+	android:name
+		ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:34:19-55
+activity#com.example.a10767.electronic_wardrobe.Clothes_Message.Clothe_Jacket
+ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:35:9-67
+	android:name
+		ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:35:19-64
+activity#com.example.a10767.electronic_wardrobe.Clothes_Message.Clothe_Skirt
+ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:36:9-66
+	android:name
+		ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:36:19-63
+activity#com.example.a10767.electronic_wardrobe.Clothes_Message.Clothe_Pants
+ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:37:9-66
+	android:name
+		ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:37:19-63
+activity#com.example.a10767.electronic_wardrobe.Clothes_Message.Clothe_Shoe
+ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:38:9-65
+	android:name
+		ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:38:19-62
+activity#com.example.a10767.electronic_wardrobe.Clothes_Message.Clothe_Suit
+ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:39:9-65
+	android:name
+		ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:39:19-62
+activity#com.example.a10767.electronic_wardrobe.Clothes_Message.Clothe_Bag
+ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:40:9-64
+	android:name
+		ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:40:19-61
+activity#com.example.a10767.electronic_wardrobe.Clothes_Message.Clothe_Coat
+ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:41:9-65
+	android:name
+		ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:41:19-62
+activity#com.example.a10767.electronic_wardrobe.Clothes_Message.Clothe_Cap
+ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:42:9-64
+	android:name
+		ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:42:19-61
+activity#com.example.a10767.electronic_wardrobe.Clothes_Message.Clothe_Accessories
+ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:43:9-72
+	android:name
+		ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:43:19-69
+activity#com.example.a10767.electronic_wardrobe.Clothes_Manage.Jacket_Add
+ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:44:9-63
+	android:name
+		ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:44:19-60
+activity#com.example.a10767.electronic_wardrobe.Clothes_Manage.Skirt_Add
+ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:45:9-62
+	android:name
+		ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:45:19-59
+activity#com.example.a10767.electronic_wardrobe.Clothes_Manage.Suit_Add
+ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:46:9-61
+	android:name
+		ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:46:19-58
+activity#com.example.a10767.electronic_wardrobe.Clothes_Manage.Pants_Add
+ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:47:9-62
+	android:name
+		ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:47:19-59
+activity#com.example.a10767.electronic_wardrobe.Clothes_Manage.Shoe_Add
+ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:48:9-61
+	android:name
+		ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:48:19-58
+activity#com.example.a10767.electronic_wardrobe.Clothes_Manage.Bag_Add
+ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:49:9-60
+	android:name
+		ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:49:19-57
+activity#com.example.a10767.electronic_wardrobe.Clothes_Manage.Coat_Add
+ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:50:9-61
+	android:name
+		ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:50:19-58
+activity#com.example.a10767.electronic_wardrobe.Clothes_Manage.Cap_Add
+ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:51:9-60
+	android:name
+		ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:51:19-57
+activity#com.example.a10767.electronic_wardrobe.Clothes_Manage.Accessories_Add
+ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:52:9-68
+	android:name
+		ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:52:19-65
+activity#com.example.a10767.electronic_wardrobe.Clothes_Manage.Clothes_Delete
+ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:53:9-67
+	android:name
+		ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:53:19-64
+activity#com.example.a10767.electronic_wardrobe.Clothes_Manage.Clothes_Check
+ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:54:9-66
+	android:name
+		ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:54:19-63
+activity#com.example.a10767.electronic_wardrobe.Clothes_Manage.Clothes_Fix
+ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:55:9-64
+	android:name
+		ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:55:19-61
+activity#com.example.a10767.electronic_wardrobe.Clothes_Manage.Clothes_Search
+ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:56:9-67
+	android:name
+		ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:56:19-64
+activity#com.example.a10767.electronic_wardrobe.Mix_Manage.Clothe_Mix
+ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:57:9-59
+	android:name
+		ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:57:19-56
+activity#com.example.a10767.electronic_wardrobe.Mix_Manage.Frame_All
+ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:58:9-58
+	android:name
+		ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:58:19-55
+activity#com.example.a10767.electronic_wardrobe.Mix_Manage.Wardrobe_choice
+ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:59:9-64
+	android:name
+		ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:59:19-61
+activity#com.example.a10767.electronic_wardrobe.Mix_Manage.Mix_Jacket
+ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:60:9-59
+	android:name
+		ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:60:19-56
+activity#com.example.a10767.electronic_wardrobe.Mix_Manage.Mix_Add
+ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:61:9-56
+	android:name
+		ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:61:19-53
+activity#com.example.a10767.electronic_wardrobe.Mix_Manage.My_Mix
+ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:62:9-55
+	android:name
+		ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:62:19-52
+activity#com.example.a10767.electronic_wardrobe.Others_Wardrobe.OthersWardrobe
+ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:63:9-68
+	android:name
+		ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:63:19-65
+activity#com.example.a10767.electronic_wardrobe.Others_Wardrobe.Others_Add
+ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:64:9-64
+	android:name
+		ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:64:19-61
+activity#com.example.a10767.electronic_wardrobe.Mix_Manage.Mix_Pants
+ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:65:9-58
+	android:name
+		ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:65:19-55
+activity#com.example.a10767.electronic_wardrobe.Mix_Manage.Mix_Skirt
+ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:66:9-58
+	android:name
+		ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:66:19-55
+activity#com.example.a10767.electronic_wardrobe.Mix_Manage.Mix_Shoe
+ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:67:9-57
+	android:name
+		ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:67:19-54
+activity#com.example.a10767.electronic_wardrobe.Mix_Manage.Mix_Suit
+ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:68:9-57
+	android:name
+		ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:68:19-54
+activity#com.example.a10767.electronic_wardrobe.Mix_Manage.Mix_Coat
+ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:69:9-57
+	android:name
+		ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:69:19-54
+provider#android.support.v4.content.FileProvider
+ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:71:9-79:20
+	android:grantUriPermissions
+		ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:75:13-47
+	android:authorities
+		ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:73:13-60
+	android:exported
+		ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:74:13-37
+	android:name
+		ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:72:13-67
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:76:13-78:54
+	android:resource
+		ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:78:17-51
+	android:name
+		ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:77:17-67
+activity#com.example.a10767.electronic_wardrobe.Mix_Manage.Mix_Cap
+ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:81:9-56
+	android:name
+		ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:81:19-53
+activity#com.example.a10767.electronic_wardrobe.Others_Wardrobe.Others_Wardrobe_Choice
+ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:82:9-76
+	android:name
+		ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:82:19-73
+activity#com.example.a10767.electronic_wardrobe.Others_Wardrobe.Main2Activity
+ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:83:9-67
+	android:name
+		ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:83:19-64
+activity#com.example.a10767.electronic_wardrobe.Others_Wardrobe.Others_Jacket
+ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:84:9-67
+	android:name
+		ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:84:19-64
+activity#com.example.a10767.electronic_wardrobe.Others_Wardrobe.Others_Skirt
+ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:85:9-66
+	android:name
+		ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:85:19-63
+activity#com.example.a10767.electronic_wardrobe.Others_Wardrobe.Others_Pants
+ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:86:9-66
+	android:name
+		ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:86:19-63
+activity#com.example.a10767.electronic_wardrobe.Others_Wardrobe.Others_Shoe
+ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:87:9-65
+	android:name
+		ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:87:19-62
+activity#com.example.a10767.electronic_wardrobe.Others_Wardrobe.Others_Suit
+ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:88:9-65
+	android:name
+		ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:88:19-62
+activity#com.example.a10767.electronic_wardrobe.Others_Wardrobe.Others_Coat
+ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:89:9-65
+	android:name
+		ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:89:19-62
+activity#com.example.a10767.electronic_wardrobe.Others_Wardrobe.Others_Cap
+ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:90:9-64
+	android:name
+		ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:90:19-61
+activity#com.example.a10767.electronic_wardrobe.Others_Wardrobe.My_Suit
+ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:91:9-61
+	android:name
+		ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:91:19-58
+activity#com.example.a10767.electronic_wardrobe.Main_Fragment.MyselfCollect
+ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:92:9-65
+	android:name
+		ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:92:19-62
+activity#com.example.a10767.electronic_wardrobe.Main_Fragment.MyselfCollectSearch
+ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:93:9-71
+	android:name
+		ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:93:19-68
+activity#com.example.a10767.electronic_wardrobe.Main_Fragment.HeartLayoutActivity
+ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:94:9-71
+	android:name
+		ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:94:19-68
+activity#com.example.a10767.electronic_wardrobe.Mix_Manage.Mix_Search
+ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:95:9-59
+	android:name
+		ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:95:19-56
+activity#com.example.a10767.electronic_wardrobe.Mix_Manage.Mix_Check
+ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:96:9-58
+	android:name
+		ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:96:19-55
+activity#com.example.a10767.electronic_wardrobe.Mix_Manage.Mix_Fix
+ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:97:9-56
+	android:name
+		ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:97:19-53
+activity#com.example.a10767.electronic_wardrobe.Main_Fragment.HeartFix
+ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:98:9-60
+	android:name
+		ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:98:19-57
+activity#com.example.a10767.electronic_wardrobe.Mix_Manage.Mix_Delete
+ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:99:9-68
+	android:name
+		ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml:99:19-56
+uses-sdk
+INJECTED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml
+INJECTED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml
+MERGED from [com.github.devlight.shadowlayout:library:1.0.0] C:\Users\Dell\.gradle\caches\transforms-3\3832a32de4e476ae257c0b790979129c\transformed\library-1.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.github.devlight.shadowlayout:library:1.0.0] C:\Users\Dell\.gradle\caches\transforms-3\3832a32de4e476ae257c0b790979129c\transformed\library-1.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Dell\.gradle\caches\transforms-3\297395d195f6d0bd5f889e6a102d670d\transformed\appcompat-v7-26.1.0\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Dell\.gradle\caches\transforms-3\297395d195f6d0bd5f889e6a102d670d\transformed\appcompat-v7-26.1.0\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Dell\.gradle\caches\transforms-3\478bbd68f0ed2bfa54f4ffee01690357\transformed\constraint-layout-1.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Dell\.gradle\caches\transforms-3\478bbd68f0ed2bfa54f4ffee01690357\transformed\constraint-layout-1.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Dell\.gradle\caches\transforms-3\bcfeee93368a428b5b056c702ac0a0db\transformed\support-v4-26.1.0\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Dell\.gradle\caches\transforms-3\bcfeee93368a428b5b056c702ac0a0db\transformed\support-v4-26.1.0\AndroidManifest.xml:21:5-23:54
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\Dell\.gradle\caches\transforms-3\5b8dcb537c9ea33920644acc41b6b20f\transformed\circleimageview-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\Dell\.gradle\caches\transforms-3\5b8dcb537c9ea33920644acc41b6b20f\transformed\circleimageview-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Dell\.gradle\caches\transforms-3\7b86e249943c92068177e6d180201e9d\transformed\recyclerview-v7-26.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Dell\.gradle\caches\transforms-3\7b86e249943c92068177e6d180201e9d\transformed\recyclerview-v7-26.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Dell\.gradle\caches\transforms-3\e33d9416d28a4462bf6e96ad3c311394\transformed\animated-vector-drawable-26.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Dell\.gradle\caches\transforms-3\e33d9416d28a4462bf6e96ad3c311394\transformed\animated-vector-drawable-26.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Dell\.gradle\caches\transforms-3\060d3f96ef7df937ce84b151d66943aa\transformed\support-vector-drawable-26.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Dell\.gradle\caches\transforms-3\060d3f96ef7df937ce84b151d66943aa\transformed\support-vector-drawable-26.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Dell\.gradle\caches\transforms-3\c19064971bbedc9e379e2c18ebd3f533\transformed\support-media-compat-26.1.0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Dell\.gradle\caches\transforms-3\c19064971bbedc9e379e2c18ebd3f533\transformed\support-media-compat-26.1.0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Dell\.gradle\caches\transforms-3\f3a8369da7d987279d55bf89e407b634\transformed\support-fragment-26.1.0\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Dell\.gradle\caches\transforms-3\f3a8369da7d987279d55bf89e407b634\transformed\support-fragment-26.1.0\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Dell\.gradle\caches\transforms-3\c2d57a667b305712eea70c335056b341\transformed\support-core-utils-26.1.0\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Dell\.gradle\caches\transforms-3\c2d57a667b305712eea70c335056b341\transformed\support-core-utils-26.1.0\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Dell\.gradle\caches\transforms-3\0178685f0a5dee9c64f51034d4584a0c\transformed\support-core-ui-26.1.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Dell\.gradle\caches\transforms-3\0178685f0a5dee9c64f51034d4584a0c\transformed\support-core-ui-26.1.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Dell\.gradle\caches\transforms-3\387a944ca1ed702e908516665302ef06\transformed\support-compat-26.1.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Dell\.gradle\caches\transforms-3\387a944ca1ed702e908516665302ef06\transformed\support-compat-26.1.0\AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Dell\.gradle\caches\transforms-3\d409dd1e24ba85f9d12b52f70ec4c792\transformed\runtime-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Dell\.gradle\caches\transforms-3\d409dd1e24ba85f9d12b52f70ec4c792\transformed\runtime-1.0.0\AndroidManifest.xml:20:5-22:41
+INJECTED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml
+INJECTED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Dell\.gradle\caches\transforms-3\297395d195f6d0bd5f889e6a102d670d\transformed\appcompat-v7-26.1.0\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml
+		ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml
+		ADDED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Desktop\Electronic_wardrobe\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Dell\.gradle\caches\transforms-3\297395d195f6d0bd5f889e6a102d670d\transformed\appcompat-v7-26.1.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Dell\.gradle\caches\transforms-3\bcfeee93368a428b5b056c702ac0a0db\transformed\support-v4-26.1.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Dell\.gradle\caches\transforms-3\bcfeee93368a428b5b056c702ac0a0db\transformed\support-v4-26.1.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Dell\.gradle\caches\transforms-3\7b86e249943c92068177e6d180201e9d\transformed\recyclerview-v7-26.1.0\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Dell\.gradle\caches\transforms-3\7b86e249943c92068177e6d180201e9d\transformed\recyclerview-v7-26.1.0\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Dell\.gradle\caches\transforms-3\e33d9416d28a4462bf6e96ad3c311394\transformed\animated-vector-drawable-26.1.0\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Dell\.gradle\caches\transforms-3\e33d9416d28a4462bf6e96ad3c311394\transformed\animated-vector-drawable-26.1.0\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Dell\.gradle\caches\transforms-3\060d3f96ef7df937ce84b151d66943aa\transformed\support-vector-drawable-26.1.0\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Dell\.gradle\caches\transforms-3\060d3f96ef7df937ce84b151d66943aa\transformed\support-vector-drawable-26.1.0\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Dell\.gradle\caches\transforms-3\c19064971bbedc9e379e2c18ebd3f533\transformed\support-media-compat-26.1.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Dell\.gradle\caches\transforms-3\c19064971bbedc9e379e2c18ebd3f533\transformed\support-media-compat-26.1.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Dell\.gradle\caches\transforms-3\f3a8369da7d987279d55bf89e407b634\transformed\support-fragment-26.1.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Dell\.gradle\caches\transforms-3\f3a8369da7d987279d55bf89e407b634\transformed\support-fragment-26.1.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Dell\.gradle\caches\transforms-3\c2d57a667b305712eea70c335056b341\transformed\support-core-utils-26.1.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Dell\.gradle\caches\transforms-3\c2d57a667b305712eea70c335056b341\transformed\support-core-utils-26.1.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Dell\.gradle\caches\transforms-3\0178685f0a5dee9c64f51034d4584a0c\transformed\support-core-ui-26.1.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Dell\.gradle\caches\transforms-3\0178685f0a5dee9c64f51034d4584a0c\transformed\support-core-ui-26.1.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Dell\.gradle\caches\transforms-3\387a944ca1ed702e908516665302ef06\transformed\support-compat-26.1.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Dell\.gradle\caches\transforms-3\387a944ca1ed702e908516665302ef06\transformed\support-compat-26.1.0\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Dell\.gradle\caches\transforms-3\297395d195f6d0bd5f889e6a102d670d\transformed\appcompat-v7-26.1.0\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Dell\.gradle\caches\transforms-3\297395d195f6d0bd5f889e6a102d670d\transformed\appcompat-v7-26.1.0\AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Dell\.gradle\caches\transforms-3\d409dd1e24ba85f9d12b52f70ec4c792\transformed\runtime-1.0.0\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Dell\.gradle\caches\transforms-3\d409dd1e24ba85f9d12b52f70ec4c792\transformed\runtime-1.0.0\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Dell\.gradle\caches\transforms-3\d409dd1e24ba85f9d12b52f70ec4c792\transformed\runtime-1.0.0\AndroidManifest.xml:26:13-58

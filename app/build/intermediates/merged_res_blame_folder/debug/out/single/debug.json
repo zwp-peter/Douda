@@ -1,0 +1,650 @@
+[
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\drawable_jacket.png.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\src\\main\\res\\drawable\\jacket.png"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\layout_clothe_cap.xml.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\src\\main\\res\\layout\\clothe_cap.xml"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\layout_content_listview.xml.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\src\\main\\res\\layout\\content_listview.xml"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\drawable_yy.png.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\src\\main\\res\\drawable\\yy.png"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\drawable_mix_add.png.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\src\\main\\res\\drawable\\mix_add.png"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\layout_mix_cap.xml.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\src\\main\\res\\layout\\mix_cap.xml"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\drawable_left_arrows_white.png.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\src\\main\\res\\drawable\\left_arrows_white.png"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\layout_clothe_jacket.xml.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\src\\main\\res\\layout\\clothe_jacket.xml"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\drawable_white_background.xml.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\src\\main\\res\\drawable\\white_background.xml"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\drawable_cap.png.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\src\\main\\res\\drawable\\cap.png"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\drawable_pants.png.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\src\\main\\res\\drawable\\pants.png"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\layout_others_shoe.xml.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\src\\main\\res\\layout\\others_shoe.xml"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\drawable_loading_pants.png.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\src\\main\\res\\drawable\\loading_pants.png"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\drawable_wei_xin.png.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\src\\main\\res\\drawable\\wei_xin.png"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\drawable_wardrobe.png.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\src\\main\\res\\drawable\\wardrobe.png"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\drawable-ldpi_ic_launcher_foreground.png.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\drawable_search.png.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\src\\main\\res\\drawable\\search.png"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\layout_head_portrait_dialog.xml.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\src\\main\\res\\layout\\head_portrait_dialog.xml"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\layout_others_wardrobe.xml.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\src\\main\\res\\layout\\others_wardrobe.xml"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\anim_dialog_end.xml.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\src\\main\\res\\anim\\dialog_end.xml"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\layout_clothe_search.xml.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\src\\main\\res\\layout\\clothe_search.xml"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\layout_mix_pants.xml.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\src\\main\\res\\layout\\mix_pants.xml"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\drawable_myself_message_background.png.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\src\\main\\res\\drawable\\myself_message_background.png"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\layout_mix_jacket.xml.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\src\\main\\res\\layout\\mix_jacket.xml"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\anim_quit2.xml.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\src\\main\\res\\anim\\quit2.xml"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\drawable_shoe.png.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\src\\main\\res\\drawable\\shoe.png"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\xml_file_paths.xml.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\src\\main\\res\\xml\\file_paths.xml"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\layout_wardrobe_choice.xml.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\src\\main\\res\\layout\\wardrobe_choice.xml"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\drawable_plus_white.png.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\src\\main\\res\\drawable\\plus_white.png"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\drawable_right_move.png.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\src\\main\\res\\drawable\\right_move.png"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\layout_register.xml.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\src\\main\\res\\layout\\register.xml"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\drawable_share.png.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\src\\main\\res\\drawable\\share.png"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\drawable_heart_red.png.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\src\\main\\res\\drawable\\heart_red.png"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\layout_others_add.xml.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\src\\main\\res\\layout\\others_add.xml"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\layout_mix_main.xml.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\src\\main\\res\\layout\\mix_main.xml"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\layout_heart_fix.xml.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\src\\main\\res\\layout\\heart_fix.xml"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\drawable_mine.png.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\src\\main\\res\\drawable\\mine.png"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\drawable_bag.png.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\src\\main\\res\\drawable\\bag.png"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\drawable_wei_bo.png.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\src\\main\\res\\drawable\\wei_bo.png"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\anim_quit.xml.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\src\\main\\res\\anim\\quit.xml"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\layout_clothe_check.xml.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\src\\main\\res\\layout\\clothe_check.xml"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\layout_clothe_skirt.xml.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\src\\main\\res\\layout\\clothe_skirt.xml"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\layout_clothe_suit.xml.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\src\\main\\res\\layout\\clothe_suit.xml"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\drawable_coat.png.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\src\\main\\res\\drawable\\coat.png"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\layout_myself_mine.xml.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\src\\main\\res\\layout\\myself_mine.xml"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\layout_mix_suit.xml.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\src\\main\\res\\layout\\mix_suit.xml"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\layout_clothe_frame.xml.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\src\\main\\res\\layout\\clothe_frame.xml"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\layout_myself_fix_password.xml.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\src\\main\\res\\layout\\myself_fix_password.xml"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\drawable_match.png.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\src\\main\\res\\drawable\\match.png"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\drawable_check.png.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\src\\main\\res\\drawable\\check.png"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\drawable_empty.png.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\src\\main\\res\\drawable\\empty.png"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_launcher_foreground.png.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\layout_my_suit.xml.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\src\\main\\res\\layout\\my_suit.xml"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\drawable_loading_jacket.png.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\src\\main\\res\\drawable\\loading_jacket.png"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\layout_mix_add.xml.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\src\\main\\res\\layout\\mix_add.xml"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\drawable_loading_coat.png.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\src\\main\\res\\drawable\\loading_coat.png"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\drawable_skirt.png.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\src\\main\\res\\drawable\\skirt.png"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\drawable_frame_selector.xml.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\src\\main\\res\\drawable\\frame_selector.xml"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\drawable_loading_accessories.png.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\src\\main\\res\\drawable\\loading_accessories.png"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\drawable_blue_background.xml.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\src\\main\\res\\drawable\\blue_background.xml"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\drawable_loading_bag.png.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\src\\main\\res\\drawable\\loading_bag.png"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\layout_clothe_bag.xml.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\src\\main\\res\\layout\\clothe_bag.xml"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\drawable_others_add.png.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\src\\main\\res\\drawable\\others_add.png"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\layout_others_pants.xml.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\src\\main\\res\\layout\\others_pants.xml"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\drawable_menu_background.png.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\src\\main\\res\\drawable\\menu_background.png"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\drawable_loading_skirt.png.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\src\\main\\res\\drawable\\loading_skirt.png"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\layout_clothes_choice_dialog.xml.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\src\\main\\res\\layout\\clothes_choice_dialog.xml"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\layout_my_mix_listview.xml.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\src\\main\\res\\layout\\my_mix_listview.xml"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\drawable_kuangjia_2.png.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\src\\main\\res\\drawable\\kuangjia_2.png"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\drawable_loading_cap.png.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\src\\main\\res\\drawable\\loading_cap.png"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\layout_content_delete_listview.xml.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\src\\main\\res\\layout\\content_delete_listview.xml"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\layout_clothe_shoe.xml.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\src\\main\\res\\layout\\clothe_shoe.xml"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\layout_others_skirt.xml.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\src\\main\\res\\layout\\others_skirt.xml"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\drawable_button2.xml.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\src\\main\\res\\drawable\\button2.xml"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\drawable_loading_shoe.png.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\src\\main\\res\\drawable\\loading_shoe.png"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\layout_others_coat.xml.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\src\\main\\res\\layout\\others_coat.xml"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\layout_mix_shoe.xml.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\src\\main\\res\\layout\\mix_shoe.xml"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\layout_forget_password.xml.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\src\\main\\res\\layout\\forget_password.xml"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\drawable_bulue_color.xml.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\src\\main\\res\\drawable\\bulue_color.xml"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\drawable_mix_duigou.png.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\src\\main\\res\\drawable\\mix_duigou.png"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\drawable_arrows.png.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\src\\main\\res\\drawable\\arrows.png"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\layout_clothes_delete.xml.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\src\\main\\res\\layout\\clothes_delete.xml"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_launcher_foreground.png.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\layout_content_frame_listview.xml.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\src\\main\\res\\layout\\content_frame_listview.xml"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\layout_mix_check.xml.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\src\\main\\res\\layout\\mix_check.xml"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\drawable_register_background.png.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\src\\main\\res\\drawable\\register_background.png"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\drawable_head.png.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\src\\main\\res\\drawable\\head.png"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\layout_myself_gender.xml.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\src\\main\\res\\layout\\myself_gender.xml"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\drawable_suit.png.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\src\\main\\res\\drawable\\suit.png"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\drawable_loading_pants_skirt.png.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\src\\main\\res\\drawable\\loading_pants_skirt.png"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\layout_content_mix_listview.xml.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\src\\main\\res\\layout\\content_mix_listview.xml"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\drawable_kuangjia_1.png.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\src\\main\\res\\drawable\\kuangjia_1.png"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\drawable_qq.png.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\src\\main\\res\\drawable\\qq.png"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\layout_others_jacket.xml.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\src\\main\\res\\layout\\others_jacket.xml"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\layout_clothe_mix.xml.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\src\\main\\res\\layout\\clothe_mix.xml"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\layout_heart_layout.xml.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\src\\main\\res\\layout\\heart_layout.xml"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\drawable_manage.png.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\src\\main\\res\\drawable\\manage.png"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\layout_myself_message.xml.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\src\\main\\res\\layout\\myself_message.xml"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\layout_mix_fix.xml.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\src\\main\\res\\layout\\mix_fix.xml"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\drawable_menu_background1.xml.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\src\\main\\res\\drawable\\menu_background1.xml"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\layout_clothe_search_listview.xml.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\src\\main\\res\\layout\\clothe_search_listview.xml"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\layout_others_cap.xml.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\src\\main\\res\\layout\\others_cap.xml"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\anim_enter2.xml.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\src\\main\\res\\anim\\enter2.xml"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\layout_others_clothes_dialog.xml.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\src\\main\\res\\layout\\others_clothes_dialog.xml"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\layout_others_suit.xml.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\src\\main\\res\\layout\\others_suit.xml"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\layout_myself_fix_phone.xml.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\src\\main\\res\\layout\\myself_fix_phone.xml"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\layout_clothe_fix.xml.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\src\\main\\res\\layout\\clothe_fix.xml"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\drawable_pp.png.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\src\\main\\res\\drawable\\pp.png"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\layout_clothes_add.xml.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\src\\main\\res\\layout\\clothes_add.xml"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\layout_content_others_listview.xml.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\src\\main\\res\\layout\\content_others_listview.xml"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\layout_mix_skirt.xml.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\src\\main\\res\\layout\\mix_skirt.xml"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\drawable_loading_suit.png.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\src\\main\\res\\drawable\\loading_suit.png"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\layout_the_main.xml.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\src\\main\\res\\layout\\the_main.xml"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\drawable_kuangjia_3.png.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\src\\main\\res\\drawable\\kuangjia_3.png"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\layout_myself_username.xml.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\src\\main\\res\\layout\\myself_username.xml"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\drawable_myself_message_mine.png.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\src\\main\\res\\drawable\\myself_message_mine.png"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\anim_dialog_start.xml.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\src\\main\\res\\anim\\dialog_start.xml"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\layout_others_wardrobe_choice.xml.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\src\\main\\res\\layout\\others_wardrobe_choice.xml"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\drawable_mix_background.png.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\src\\main\\res\\drawable\\mix_background.png"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\layout_clothe_coat.xml.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\src\\main\\res\\layout\\clothe_coat.xml"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\drawable_heart_black.png.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\src\\main\\res\\drawable\\heart_black.png"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\layout_content_search_listview.xml.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\src\\main\\res\\layout\\content_search_listview.xml"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\drawable_left_arrows.png.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\src\\main\\res\\drawable\\left_arrows.png"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\drawable_button_selectors.xml.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\src\\main\\res\\drawable\\button_selectors.xml"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\anim_enter.xml.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\src\\main\\res\\anim\\enter.xml"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\drawable_button.xml.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\src\\main\\res\\drawable\\button.xml"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\layout_clothe_pants.xml.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\src\\main\\res\\layout\\clothe_pants.xml"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\layout_clothe_accessories.xml.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\src\\main\\res\\layout\\clothe_accessories.xml"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\layout_myself_wardrobe.xml.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\src\\main\\res\\layout\\myself_wardrobe.xml"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\drawable_accessories.png.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\src\\main\\res\\drawable\\accessories.png"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\layout_mix_coat.xml.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\src\\main\\res\\layout\\mix_coat.xml"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\layout_myself_collect.xml.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\src\\main\\res\\layout\\myself_collect.xml"
+    },
+    {
+        "merged": "F:\\Desktop\\Electronic_wardrobe\\app\\build\\intermediates\\merged_res\\debug\\layout_change_password.xml.flat",
+        "source": "F:\\Desktop\\Electronic_wardrobe\\app\\src\\main\\res\\layout\\change_password.xml"
+    }
+]
